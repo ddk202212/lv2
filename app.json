@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "ffffffff-ffff-ffff-ffff-ffffffffffff"
+            "value": "0312c0c8-d269-433f-9368-f5790113708a"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/losmeya/Hyper_Zetton/blob/master/etc/CADDYIndexPage.md",
